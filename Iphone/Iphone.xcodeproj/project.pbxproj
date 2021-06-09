@@ -13,6 +13,7 @@
 		3961B19A266FA6B200377424 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3961B199266FA6B200377424 /* Preview Assets.xcassets */; };
 		3961B1A6266FA6B200377424 /* IphoneTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3961B1A5266FA6B200377424 /* IphoneTests.swift */; };
 		3961B1B1266FA6B200377424 /* IphoneUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3961B1B0266FA6B200377424 /* IphoneUITests.swift */; };
+		3989486426715DE500849C28 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3989486326715DE500849C28 /* File.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		3961B1AC266FA6B200377424 /* IphoneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IphoneUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3961B1B0266FA6B200377424 /* IphoneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IphoneUITests.swift; sourceTree = "<group>"; };
 		3961B1B2266FA6B200377424 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3989486326715DE500849C28 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 			isa = PBXGroup;
 			children = (
 				3961B199266FA6B200377424 /* Preview Assets.xcassets */,
+				3989486326715DE500849C28 /* File.swift */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3961B195266FA6AF00377424 /* ContentView.swift in Sources */,
+				3989486426715DE500849C28 /* File.swift in Sources */,
 				3961B193266FA6AF00377424 /* IphoneApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
